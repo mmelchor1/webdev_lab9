@@ -8,5 +8,5 @@ function init(){
   	alert("Marlen Melchor: " + message);
   	output.innerHTML = message;
   });
-  
+}
 window.addEventListener('load', init);
